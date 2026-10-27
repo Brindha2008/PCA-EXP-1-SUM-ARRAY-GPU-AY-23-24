@@ -208,3 +208,20 @@ SHOW YOUR OUTPUT HERE
 
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
+
+
+
+
+
+.
+
+.
+.
+.
+.
+.
+.
+.
+..
+.
+
